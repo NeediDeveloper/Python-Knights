@@ -1,0 +1,5 @@
+string = input("Enter a string: ")
+new_string = string.upper()
+final_string = new_string.replace(" ", "_")
+print(final_string)
+print(f"Length of the string: {len(final_string)}")
