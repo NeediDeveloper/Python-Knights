@@ -8,9 +8,9 @@ my_car = Car("Honda","Blue")
 print(my_car.brand) 
 print(my_car.color)
 
-my_fried_car = Car("Toyota", "White")
-print(my_fried_car.brand) 
-print(my_fried_car.color) 
+my_friend_car = Car("Toyota", "White")
+print(my_friend_car.brand) 
+print(my_friend_car.color) 
 
 class Person:
     def __init__(self, name, age, city):
