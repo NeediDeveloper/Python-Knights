@@ -1,0 +1,2 @@
+Random number: 152.42
+Sqaure root: 12.35

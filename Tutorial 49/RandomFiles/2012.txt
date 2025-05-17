@@ -1,0 +1,2 @@
+Random number: 480.97
+Sqaure root: 21.93

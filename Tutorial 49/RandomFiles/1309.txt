@@ -1,0 +1,2 @@
+Random number: 332.70
+Sqaure root: 18.24
